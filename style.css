@@ -13,6 +13,8 @@ p{
     background-color: #1b1b1b;
     width: 100%;
     height: 100%;
+    display: flex;
+    overflow: hidden;
 }
 hr{
     color: #8c52ff;
@@ -56,4 +58,8 @@ span{
     font-family: telegraf;
     color: #8c52ff;
 }
+.bg-body-dark{
+    display: flex;
+}
+
 
